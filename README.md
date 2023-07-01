@@ -9,7 +9,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
 
-<br>
 - 🔭 I’m currently working on SocialBook Project<br>
 - :computer: Most used line of code `git commit -m "Initial Commit"`<br>
 - 🤔 I’m looking to collaborate on Web Development Projects
@@ -19,12 +18,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - ⚡ Fun fact: A shark is the only known fish that can blink with both eyes.
 <br />
 <br />
+  
 #### Top Technologies
 
  [![Css3 Badge](https://img.shields.io/badge/-html5-white?style=for-the-badge&labelColor=black&logo=Css3&logoColor=white)](#) [![GraphQL Badge](https://img.shields.io/badge/-css3-e535ab?style=for-the-badge&labelColor=black&logo=css3&logoColor=e535ab)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Python Badge](https://img.shields.io/badge/-python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#) 
 <br />
-<br />
-
 <br >
 
 #### Coding Stats
