@@ -10,8 +10,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
 <br>
-- 🔭 I’m currently working on SocialBook Project
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 🔭 I’m currently working on SocialBook Project<br>
+- :computer: Most used line of code `git commit -m "Initial Commit"`<br>
 - 🤔 I’m looking to collaborate on Web Development Projects
 
 - 📫 How to reach me: echafaiechafai2021@gmail.com.
