@@ -1,6 +1,6 @@
 ## Hi I'm Rachid Echafai <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-A passionate frontend developer from Morocco 🇲🇦.<br><br>
+A passionate frontend web developer from Morocco 🇲🇦.<br><br>
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 :mailbox:  any freelance work? Reach me out!
