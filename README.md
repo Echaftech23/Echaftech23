@@ -7,7 +7,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 [![Twitter Badge](https://img.shields.io/badge/-@rachidEchaf-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Rachid_echaf) [![Linkedin Badge](https://img.shields.io/badge/-Echaf-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@echafai-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/rachid_echafai) [![Mail Badge](https://img.shields.io/badge/-rachidEchafai-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:echafaiechafai2021@gmail.com)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
 
 <br>
 - 🔭 I’m currently working on SocialBook Project<br>
