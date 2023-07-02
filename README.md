@@ -29,7 +29,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 #### Coding Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echaftech23&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echaftech23)
 #### Github Stats
 
 ![Rachid Echafai's github stats](https://github-readme-stats.vercel.app/api?username=echaftech23&count_private=true&theme=tokyonight&hide=contribs,prs)
