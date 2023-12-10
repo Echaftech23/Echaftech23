@@ -22,7 +22,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 #### Top Technologies
 
- [![Css3 Badge](https://img.shields.io/badge/-html5-746AB0?style=for-the-badge&labelColor=black&logo=Css3&logoColor=white)](#) [![GraphQL Badge](https://img.shields.io/badge/-css3-e535ab?style=for-the-badge&labelColor=black&logo=css3&logoColor=e535ab)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Python Badge](https://img.shields.io/badge/-python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#) 
+ [![Css3 Badge](https://img.shields.io/badge/-html5-746AB0?style=for-the-badge&labelColor=black&logo=Css3&logoColor=white)](#) [![GraphQL Badge](https://img.shields.io/badge/-css3-e535ab?style=for-the-badge&labelColor=black&logo=css3&logoColor=e535ab)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Php Badge](https://img.shields.io/badge/-php-007acc?style=for-the-badge&labelColor=black&logo=php&logoColor=007acc)](#) 
 <br />
 <br >
 
