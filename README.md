@@ -10,7 +10,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
 <br>
 
-- 🔭 I’m currently working on InfoDev Project a blog website<br>
+- 🔭 I’m currently working on InfoDev Project A dynamic tech news blog website<br>
 - :computer: Most used line of code `git commit -m "Initial Commit"`<br>
 - 🤔 I’m looking to collaborate on Web Development Projects
 
