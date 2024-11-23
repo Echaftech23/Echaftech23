@@ -13,7 +13,7 @@ I specialize in building robust web applications using MongoDB, Express.js, Reac
 
 ### What I'm currently up to:
 
-- 🔭 Working on: **Advanced MERN Stack E-commerce Platform**
+- 🔭 Working on: **Real-time Chat Application**
 - 🌱 Learning: **Redis, AWS, and GraphQL**
 - 👯 Looking to collaborate on: **Full Stack MERN Projects**
 - 💬 Ask me about: **React, Node.js, MongoDB, Express**
