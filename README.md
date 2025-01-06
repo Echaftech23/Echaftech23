@@ -13,8 +13,8 @@ I specialize in building robust web applications using MongoDB, Express.js, Reac
 
 ### What I'm currently up to:
 
-- 🔭 Working on: **Real-time Chat Application**
-- 🌱 Learning: **Redis, AWS, and GraphQL**
+- 🔭 Working on: **PharmGarde Mobile Application**
+- 🌱 Learning: **Redis, AWS, and React native**
 - 👯 Looking to collaborate on: **Full Stack MERN Projects**
 - 💬 Ask me about: **React, Node.js, MongoDB, Express**
 - 📫 Reach me at: **echafai.rachid.dev@gmail.com**
